@@ -1,0 +1,82 @@
+{
+    "pokemones_para_venta": [
+      {
+        "id": 1,
+        "Nombre": "Pikachu",
+        "Precio": 100,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+      },
+      {
+        "id": 2,
+        "Nombre": "Charmander",
+        "Precio": 150,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+      },
+      {
+        "id": 3,
+        "Nombre": "Bulbasaur",
+        "Precio": 120,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+      },
+      {
+        "id": 4,
+        "Nombre": "Squirtle",
+        "Precio": 130,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+      },
+      {
+        "id": 5,
+        "Nombre": "Jigglypuff",
+        "Precio": 110,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+      },
+      {
+        "id": 6,
+        "Nombre": "Mewtwo",
+        "Precio": 200,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png"
+      },
+      {
+        "id": 7,
+        "Nombre": "Gengar",
+        "Precio": 180,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+      },
+      {
+        "id": 8,
+        "Nombre": "Dragonite",
+        "Precio": 250,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+      },
+      {
+        "id": 9,
+        "Nombre": "Machop",
+        "Precio": 90,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+      },
+      {
+        "id":10,
+        "Nombre": "Meowth",
+        "Precio": 80,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+      },
+      {
+        "id":11,
+        "Nombre": "Geodude",
+        "Precio": 70,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+      },
+      {
+        "id":12,
+        "Nombre": "Eevee",
+        "Precio": 130,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+      },
+      {
+        "id": 13,
+        "Nombre": "Snorlax",
+        "Precio": 220,
+        "Imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
+      }
+    ]
+}
